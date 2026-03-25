@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PeselValidation.csproj" />
+  <Project Path="ValidationTest/ValidationTest.csproj" Id="d687e3ad-e41f-4bbf-a817-a4d897f987eb" />
+</Solution>

@@ -1,0 +1,10 @@
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\bin\Debug\net10.0\.msCoverageExtensionSourceRootsMapping_ValidationTest
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\bin\Debug\net10.0\.msCoverageSourceRootsMapping_ValidationTest
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.csproj.AssemblyReference.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.gentestingplatformentrypointinputcache.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.genautoregisteredextensionsinputcache.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.AssemblyInfoInputs.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.AssemblyInfo.cs
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.csproj.CoreCompileInputs.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\ValidationTest\obj\Debug\net10.0\ValidationTest.sourcelink.json

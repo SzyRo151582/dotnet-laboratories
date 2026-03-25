@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stjudent\\Desktop\\roda-szymon\\.NET\\PeselValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D687E3AD-E41F-4BBF-A817-A4D897F987EB}|ValidationTest\\ValidationTest.csproj|c:\\users\\stjudent\\desktop\\roda-szymon\\.net\\peselvalidation\\validationtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D687E3AD-E41F-4BBF-A817-A4D897F987EB}|ValidationTest\\ValidationTest.csproj|solutionrelative:validationtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5CE0EA6-DCA3-4B58-5432-3ABD00204329}|PeselValidation.csproj|c:\\users\\stjudent\\desktop\\roda-szymon\\.net\\peselvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5CE0EA6-DCA3-4B58-5432-3ABD00204329}|PeselValidation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Stjudent\\Desktop\\roda-szymon\\.NET\\PeselValidation\\ValidationTest\\Test1.cs",
+              "RelativeDocumentMoniker": "ValidationTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\Stjudent\\Desktop\\roda-szymon\\.NET\\PeselValidation\\ValidationTest\\Test1.cs",
+              "RelativeToolTip": "ValidationTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:20:44.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stjudent\\Desktop\\roda-szymon\\.NET\\PeselValidation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Stjudent\\Desktop\\roda-szymon\\.NET\\PeselValidation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:55:30.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

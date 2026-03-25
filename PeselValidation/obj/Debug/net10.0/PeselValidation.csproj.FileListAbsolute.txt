@@ -1,0 +1,5 @@
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\obj\Debug\net10.0\PeselValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\obj\Debug\net10.0\PeselValidation.AssemblyInfoInputs.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\obj\Debug\net10.0\PeselValidation.AssemblyInfo.cs
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\obj\Debug\net10.0\PeselValidation.csproj.CoreCompileInputs.cache
+C:\Users\Stjudent\Desktop\roda-szymon\.NET\PeselValidation\obj\Debug\net10.0\PeselValidation.sourcelink.json
